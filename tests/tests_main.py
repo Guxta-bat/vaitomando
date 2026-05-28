@@ -1,4 +1,4 @@
-# testsmain/tests.py
+# testsmain/tests_main.py
 
 import pytest
 
