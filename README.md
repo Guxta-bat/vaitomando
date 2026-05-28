@@ -103,7 +103,11 @@ Após o push da branch, foi aberto um Pull Request no GitHub, disparando automat
 
 <img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/d5a909f2-045d-4a2b-89b1-c7108d0d5eff" />
 
-<img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/1b8e9be2-7957-43d8-967a-9a9c1e8d0bce" />
+<img width="1520" height="342" alt="Captura de tela 2026-05-28 161347" src="https://github.com/user-attachments/assets/abac5e55-d3df-4314-bd9f-b44a0684a68f" />
+
+
+<img width="1275" height="229" alt="Captura de tela 2026-05-28 164737" src="https://github.com/user-attachments/assets/adde8aee-fbee-4108-9194-3865da5d28d3" />
+
 
 
 Falhas por injeção SQL e "fast fail" por uma mudança no código .py
