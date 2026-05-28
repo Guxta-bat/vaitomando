@@ -99,11 +99,7 @@ Após o push da branch, foi aberto um Pull Request no GitHub, disparando automat
 
 <img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/7e79eb25-87c3-4695-abed-a3561f46c0d8" />
 
-
-```markdown
----
-
-## GitHub Actions
+## EVIDÊNCIAS
 
 <img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/d5a909f2-045d-4a2b-89b1-c7108d0d5eff" />
 
