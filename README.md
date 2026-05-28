@@ -111,7 +111,6 @@ Após o push da branch, foi aberto um Pull Request no GitHub, disparando automat
 
 
 Falhas por injeção SQL e "fast fail" por uma mudança no código .py
-```markdown
 
 ```
 
